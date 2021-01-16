@@ -28,6 +28,7 @@ function setup(){
     sand8 = new Sand(525,445,10);
     sand9 = new Sand(530,445,10);
     sand10 = new Sand(535,445,10);
+    sand11 = new Sand(540,440,10);
 
 
 }
@@ -53,4 +54,5 @@ function draw(){
     sand8.display();
     sand9.display();
     sand10.display();
+    sand11.display();
 }
